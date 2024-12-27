@@ -788,6 +788,18 @@ video {
   width: 260px;
 }
 
+.w-\[400px\] {
+  width: 400px;
+}
+
+.w-\[40px\] {
+  width: 40px;
+}
+
+.w-\[199\%\] {
+  width: 199%;
+}
+
 .flex-col {
   flex-direction: column;
 }
